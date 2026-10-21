@@ -1,0 +1,18 @@
+{
+  "release": "R2026a Update 5",
+  "original_experiment_groups": 100,
+  "web_vs_direct_count": 600,
+  "compiled_vs_direct_count": 648,
+  "all_available_metrics_sample_groups": 2,
+  "all_available_metrics_count": 24,
+  "maximum_absolute_error": 0.0,
+  "tolerance_absolute": 1e-12,
+  "tolerance_relative": 1e-12,
+  "passed": true,
+  "note": "直接调用原版指标，绕过 compute_metrics 的文本缓存；QP 只修正 Octave 环境识别。所有输入使用保存的同一份图片快照，未转码。",
+  "desktop_exe_vs_direct_count": 48,
+  "desktop_exe_max_abs_error": 0.0,
+  "reproduction_script_export_verified": true,
+  "exe_sha256": "77ebedf1a98a1d77e6a0ccdb3070ab4fe945ed654c240c9b8ee4890a8ecc5055",
+  "exe_bytes": 19372166
+}

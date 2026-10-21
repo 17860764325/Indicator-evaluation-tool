@@ -1,0 +1,1 @@
+r=struct('version',version,'compiler_installed',~isempty(ver('compiler')),'compiler_license',license('test','Compiler'),'mcc',which('mcc'));fid=fopen('D:/project/paper/fusion-eval/tests/compiler_check.json','w');fprintf(fid,'%s',jsonencode(r));fclose(fid);disp(r);

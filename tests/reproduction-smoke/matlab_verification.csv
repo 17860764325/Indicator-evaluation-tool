@@ -1,0 +1,7 @@
+Group,Metric,Value,Status,Error
+001,Entropy,7.63002764292897,ok,
+001,SD,71.2078870170886,ok,
+001,Spatial_frequency,45.7272167030316,ok,
+002,Entropy,6.64846243605858,ok,
+002,SD,71.530290334155,ok,
+002,Spatial_frequency,57.7206353941616,ok,

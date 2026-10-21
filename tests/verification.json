@@ -1,0 +1,29 @@
+{
+  "real_matlab": "26.1.0.3346908 (R2026a) Update 5",
+  "original_metrics_success": 19,
+  "unchanged_metrics_match_prior_run": 18,
+  "QP": 0.3376432152476461,
+  "multi_group_count": 2,
+  "independent_python_entropy_and_sd_match": true,
+  "multi_group_summary": {
+    "Entropy": {
+      "mean": 7.1392450394937725,
+      "std": 0.4907826034351932,
+      "valid": 2,
+      "total": 2
+    },
+    "SD": {
+      "mean": 71.36908867562181,
+      "std": 0.16120165853322277,
+      "valid": 2,
+      "total": 2
+    },
+    "Spatial_frequency": {
+      "mean": 51.72392604859658,
+      "std": 5.996709345565023,
+      "valid": 2,
+      "total": 2
+    }
+  },
+  "unit_tests_passed": 7
+}

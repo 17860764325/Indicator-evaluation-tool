@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "count": 48,
+  "max_abs_error": 0.0,
+  "backend": "compiled",
+  "exe_sha256": "77ebedf1a98a1d77e6a0ccdb3070ab4fe945ed654c240c9b8ee4890a8ecc5055"
+}
